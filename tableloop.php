@@ -2,9 +2,9 @@
   <head>
   </head>
   <body>
-    <table border="5">
+    <table border="100">
       <?php
-        for($i=0;$i<100;$i++){
+        for($i=0;$i<5;$i++){
           echo "<tr>";
           echo "<td>คอลัมน์</td>";
           echo "</tr>";
