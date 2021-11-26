@@ -14,7 +14,7 @@
         echo "</tr>";
         echo "<tr>";
         echo "<td>";
-        echo $data;
+        echo $val;
         echo "</td>";
         echo "</tr>";
   }
