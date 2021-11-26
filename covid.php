@@ -9,14 +9,10 @@
   foreach ( $data[0] as $key => $val ){
         echo "<tr>";
         echo "<td>";
-        echo $key;
+        echo $key;$data
         echo "</td>";
         echo "</tr>";
-        echo "<tr>";
-        echo "<td>";
-        echo $data;
-        echo "</td>";
-        echo "</tr>";
+        
   }
 
   echo "</table>";
