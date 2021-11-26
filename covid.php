@@ -12,6 +12,11 @@
         echo $key;
         echo "</td>";
         echo "</tr>";
+        echo "<tr>";
+        echo "<td>";
+        echo $val;
+        echo "</td>";
+        echo "</tr>";
   }
 
   echo "</table>";
