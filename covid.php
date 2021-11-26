@@ -10,7 +10,10 @@
           echo "<td>$data = json_decode($json)</td>";
           echo "</tr>";
            }       
-
+       ?>
+    </table>
+  </body>
+</html>
   foreach ( $data[0] as $key => $val ){
     echo $key.":".$val."<br>";
   }
