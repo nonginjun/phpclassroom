@@ -6,9 +6,9 @@
     <?php
         for($i=0;$i<2;$i++){
           echo "<tr>";
-          echo "<td>$json</td>";
-          echo $key;
-          echo "<td>$data</td>";
+          echo "<td>";
+          echo $key;$json = file_get_contents('https://covid19.ddc.moph.go.th/api/Cases/today-cases-all');
+          echo "</td>";
           echo "</tr>";
            }       
      
