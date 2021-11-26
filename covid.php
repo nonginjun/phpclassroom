@@ -7,6 +7,7 @@
         for($i=0;$i<10;$i++){
           echo "<tr>";
           echo "<td>json_decode</td>";
+          echo "</tr>";
           }
         ?>
     </table>
