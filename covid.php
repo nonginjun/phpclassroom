@@ -5,7 +5,8 @@
   echo "<table border='2'>";
     <?php
         for($i=0;$i<10;$i++){
-          }
+          echo "<tr>";
+        }
         ?>
     </table>
   </body>
