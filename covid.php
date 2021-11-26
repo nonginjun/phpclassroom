@@ -8,12 +8,15 @@
 
   foreach ( $data[0] as $key => $val ){
         echo "<tr>";
-        echo "<td>;$key</td>"
+        echo "<td>";
+        echo $key;
+        echo "</td>";
         echo "</tr>";
         echo "<tr>";
-        echo "<td>;$data</td>"
+        echo "<td>";
+        echo $data;
+        echo "</td>";
         echo "</tr>";
-       
   }
 
   echo "</table>";
