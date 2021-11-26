@@ -6,7 +6,7 @@
     <?php
         for($i=0;$i<10;$i++){
           echo "<tr>";
-          echo "<td>json_decode</td>";
+          echo "<td>$data</td>";
           echo "</tr>";
           }
         ?>
