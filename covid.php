@@ -7,6 +7,7 @@
         for($i=0;$i<2;$i++){
           echo "<tr>";
           echo "<td>$json</td>";
+          echo $key;
           echo "<td>$data</td>";
           echo "</tr>";
            }       
