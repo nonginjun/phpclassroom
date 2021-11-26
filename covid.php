@@ -6,6 +6,10 @@
     <?php
         for($i=0;$i<10;$i++){
           }
+        ?>
+    </table>
+  </body>
+</html>
   foreach ( $data[0] as $key => $val ){
     echo $key.":".$val."<br>";
   }
