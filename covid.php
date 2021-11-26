@@ -8,8 +8,12 @@
           echo "<tr>";
           echo "<td> $json </td>";
           echo "</tr>";
-
-  foreach ( $data[0] as $key => $val ){
+          }
+      ?>
+    </table>
+  </body>
+</html>
+    foreach ( $data[0] as $key => $val ){
     echo $key.":".$val."<br>";
   }
 
