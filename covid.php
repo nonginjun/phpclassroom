@@ -6,7 +6,7 @@
     <?php
         for($i=0;$i<10;$i++){
           echo "<tr>";
-          echo "<td>$data</td>";
+          echo "<td>https://covid19.ddc.moph.go.th/api/Cases/today-cases-all</td>";
           echo "</tr>";
           }
         ?>
