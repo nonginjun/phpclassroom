@@ -10,6 +10,9 @@
         echo "<tr>";
         echo "<td>;$key</td>"
         echo "</tr>";
+        echo "<tr>";
+        echo "<td>;$data</td>"
+        echo "</tr>";
        
   }
 
