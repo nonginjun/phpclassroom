@@ -9,12 +9,12 @@
   foreach ( $data[0] as $key => $val ){
         echo "<tr>";
         echo "<td>";
-        echo $key;
+        echo $json;
         echo "</td>";
         echo "</tr>";
         echo "<tr>";
         echo "<td>";
-        echo $json;
+        echo $data;
         echo "</td>";
         echo "</tr>";
         
