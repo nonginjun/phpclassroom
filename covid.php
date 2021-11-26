@@ -9,7 +9,7 @@
   foreach ( $data[0] as $key => $val ){
         echo "<tr>";
         echo "<td>";
-        echo $key
+        echo $key;
         echo "</td>";
         echo "</tr>";
         echo "<tr>";
