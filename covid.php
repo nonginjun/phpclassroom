@@ -3,6 +3,7 @@
   $data = json_decode($json);
 
   echo "<table border='2'>";
+    <?php
         for($i=0;$i<10;$i++){
           echo "<tr>";
           echo "<td>txn_date:2021-11-26</td>";
@@ -17,6 +18,10 @@
           echo "<td>update_date:2021-11-26 07:32:54</td>";
           echo "</tr>";
           }
+        ?>
+    </table>
+  </body>
+</html>
   foreach ( $data[0] as $key => $val ){
     echo $key.":".$val."<br>";
   }
