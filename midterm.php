@@ -3,7 +3,7 @@
   $data = json_decode($json);
   echo"<H1><center>ตารางรายงานสถานการโควิด-19 แยกจังหวัด</center></H1>";
   echo "<br><br>";
-  echo "<body style='background-color:#F0FFFF'>";
+  echo "<body style='background-color:#FFE4E1'>";
 
   echo "<center><table border='1'>";
   echo "<tr align = 'center'>";
