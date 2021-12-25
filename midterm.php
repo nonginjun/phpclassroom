@@ -12,7 +12,7 @@
   echo "<b>ลำดับ</b>";
   echo "</td>"; 
 
-  echo "<td bgcolor='#FFF0F5'.valign='middle'>"; 
+  echo "<td bgcolor='#F0FFF0'.valign='middle'>"; 
   echo "<b>จังหวัด</b>";
   echo "</td>";
 
@@ -47,7 +47,7 @@
     echo "<td bgcolor='#E6E6FA'>"; 
     echo $key+1;
     echo "</td>"; 
-    echo "<td bgcolor='#FFF0F5'>"; 
+    echo "<td bgcolor='#F0FFF0'>"; 
     echo $val->province;
     echo "</td>"; 
     echo "<td bgcolor='#FFFACD'>"; 
