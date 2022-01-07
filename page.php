@@ -2,7 +2,7 @@
   <head>
     <style>
       body {
-        background-color: pueple;
+        background-color: purple;
       }
     </style>
   </head>
