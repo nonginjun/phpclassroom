@@ -14,6 +14,13 @@
         height: 120px;
         background-color: pink;
       }
+       #sidebar{
+        height: 400px;
+        background-color: blue;
+      }
+      #content{
+        height: 400px;
+        background-color: lime;
     </style>
     
   </head>
@@ -26,8 +33,10 @@
       </div>
      <div class="row">
         <div class="col-3" id="sidebar"><!-- ไส้บา -->
-          <h1>Header</h1>
+          <h1>sidebar</h1>
         </div>
+       <div class="col-3" id="content"><!-- คอนเท้น -->
+          <h1>content</h1>
       </div>
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
