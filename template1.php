@@ -11,7 +11,7 @@
     
     <style>
       #header{
-        height: 500px;
+        height: 120px;
         background-color: pink;
       }
     </style>
