@@ -22,9 +22,9 @@
         height: 400px;
         background-color: #C0E4F6;
       }
-      header{
+      #footer{
         height: 170px;
-        background-color: pink;
+        background-color: #E3EBFD;
     </style>
     
   </head>
