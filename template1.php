@@ -35,7 +35,7 @@
         <div class="col-3" id="sidebar"><!-- ไส้บา -->
           <h1>sidebar</h1>
         </div>
-       <div class="col-3" id="content"><!-- คอนเท้น -->
+       <div class="col-9" id="content"><!-- คอนเท้น -->
           <h1>content</h1>
       </div>
     <!-- Option 1: Bootstrap Bundle with Popper -->
