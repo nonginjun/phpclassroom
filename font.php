@@ -8,7 +8,7 @@
       }
        @font-face{
         font-family : tk2font;
-        src : url(127.woff);
+        src : url(dream.woff);
       }   
       #font1{
         font-family : tkfont;
