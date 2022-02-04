@@ -8,7 +8,7 @@
       }
        @font-face{
         font-family : tk2font;
-        src : url(jeno.woff);
+        src : url(nct.woff);
       }   
       #font1{
         font-family : tkfont;
