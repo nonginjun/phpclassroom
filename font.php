@@ -4,11 +4,11 @@
     <style>
       @font-face{
         font-family : tkfont;
-        src : url(jaedo.woff);
+        src : url(dream.woff);
       }
        @font-face{
         font-family : tk2font;
-        src : url(dream.woff);
+        src : url(127.woff);
       }   
       #font1{
         font-family : tkfont;
