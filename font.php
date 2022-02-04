@@ -8,7 +8,7 @@
       }
        @font-face{
         font-family : tk2font;
-        src : url(doyoung.woff);
+        src : url(jeno.woff);
       }   
       #font1{
         font-family : tkfont;
