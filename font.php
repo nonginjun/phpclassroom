@@ -9,6 +9,7 @@
        @font-face{
         font-family : tk2font;
         src : url(noren.woff);
+      }   
       #font1{
         font-family : tkfont;
       }  
