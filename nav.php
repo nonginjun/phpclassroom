@@ -11,7 +11,7 @@
       text-decoration: none;
     }
     li a:hover {
-      background-color: #555;
+      background-color: #FDFFE4;
       color: pink;
     }
    </style>
