@@ -8,7 +8,7 @@
     li a {
       display: block;
       padding: 8px 16px;
-      text-decoration: #AA7C7A;
+      text-decoration: #B3DBD8;
     }
     li a:hover {
       background-color: #FDFFE4;
