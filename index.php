@@ -87,6 +87,29 @@
       <div class="row">
         <div class="col-2" id="sidebar">
           <!-- ไซด์บาร์ -->
+          <html>
+  <head>
+    <title>Navigation Bar</title>
+    <style>
+    ul {
+      list-style-type: none;
+    }
+    li a {
+      display: block;
+      padding: 8px 16px;
+      text-decoration: none;
+      background-color: #B3DBD8;
+    }
+    li a:hover {
+      background-color: #FDFFE4;
+      color: pink;
+    }
+   </style>
+  </head>
+  <body>
+    
+   
+
           <ul>
             <li><a href="index.php">หน้าแรก</a></li>
             <li><a href="page11.php">แหล่งท่องเที่ยว</a></li>
