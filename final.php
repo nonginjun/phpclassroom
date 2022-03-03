@@ -44,7 +44,7 @@
 
       #footer {
         padding: 50px;
-        background-color: pink;
+        background-color: #FFBBDA;
         border-radius: 0 0 15px 15px;
       }
 
