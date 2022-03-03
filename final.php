@@ -33,7 +33,7 @@
       }
 
       #sidebar {
-        background-color: #f1f1f1;
+        background-color: #EED6D3;
         padding: 0px;
       }
 
@@ -44,7 +44,7 @@
 
       #footer {
         padding: 50px;
-        background-color: #FFBBDA;
+        background-color: #A8D1E7;
         border-radius: 0 0 15px 15px;
       }
 
