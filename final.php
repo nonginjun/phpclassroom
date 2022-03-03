@@ -81,7 +81,7 @@
       <div class="row">
         <div class="col-12" id="header">
           <!-- เฮดเดอร์ -->
-          <h1>Header</h1>
+          
         </div>
       </div>
       <div class="row">
@@ -98,7 +98,7 @@
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
           <center>
-            <h1>Content</h1>
+            <h1>จังหวัดน่าน</h1>
           </center>
           <center><img src="example_pix.jpg" class="img-fluid rounded"></center>
           <p>
