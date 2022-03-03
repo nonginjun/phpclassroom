@@ -97,7 +97,7 @@
     li a {
       display: block;
       padding: 8px 16px;
-      text-decoration: white;
+      text-decoration: none;
       background-color: #B3DBD8;
     }
     li a:hover {
