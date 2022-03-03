@@ -89,7 +89,7 @@
           <!-- ไซด์บาร์ -->
           <ul>
             <li><a href="index.php">หน้าแรก</a></li>
-            <li><a href="page1.php">แหล่งท่องเที่ยว</a></li>
+            <li><a href="page11.php">แหล่งท่องเที่ยว</a></li>
             <li><a href="page2.php">ประเพณีและวัฒนธรรม</a></li>
             <li><a href="page3.php">อาหารประจำท้องถิ่น</a></li>
             <li><a href="page4.php">ข้อมูลผู้จัดทำ</a></li>
