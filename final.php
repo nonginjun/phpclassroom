@@ -89,10 +89,10 @@
           <!-- ไซด์บาร์ -->
           <ul>
             <li><a href="index.php">หน้าแรก</a></li>
-            <li><a href="#">แหล่งท่องเที่ยว</a></li>
-            <li><a href="#">ประเพณีและวัฒนธรรม</a></li>
-            <li><a href="#">อาหารประจำท้องถิ่น</a></li>
-            <li><a href="#">ข้อมูลผู้จัดทำ</a></li>
+            <li><a href="page1.php">แหล่งท่องเที่ยว</a></li>
+            <li><a href="page2.php">ประเพณีและวัฒนธรรม</a></li>
+            <li><a href="page3.php">อาหารประจำท้องถิ่น</a></li>
+            <li><a href="page4.php">ข้อมูลผู้จัดทำ</a></li>
           </ul>
         </div>
         <div class="col-10" id="content">
