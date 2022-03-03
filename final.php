@@ -11,7 +11,7 @@
       integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
       crossorigin="anonymous"
     />
-    <title>อย่าลืมแก้ไตเติ้ล</title>
+    <title>จังหวัดน่าน</title>
     <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Sarabun"
@@ -102,15 +102,7 @@
           </center>
           <center><img src="example_pix.jpg" class="img-fluid rounded"></center>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book. It has survived not
-            only five centuries, but also the leap into electronic typesetting,
-            remaining essentially unchanged. It was popularised in the 1960s
-            with the release of Letraset sheets containing Lorem Ipsum passages,
-            and more recently with desktop publishing software like Aldus
-            PageMaker including versions of Lorem Ipsum.
+           มีประวัติความเป็นมาที่เก่าแก่ยาวนาน มีชื่อเรียกในพงศาวดารว่า นันทบุรี เมืองน่านในอดีตเป็นนครรัฐเล็ก ๆ ก่อตัวขึ้นราวกลางพุทธศตวรรษที่ 18 บริเวณที่ราบลุ่มแม่น้ำน่านและแม่น้ำสาขาในหุบเขาทางตะวันออกของภาคเหนือ
           </p>
         </div>
       </div>
