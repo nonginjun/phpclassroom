@@ -11,7 +11,10 @@
       integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
       crossorigin="anonymous"
     />
-   
+    <title>จังหวัดน่าน</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Sarabun"
     />
     <style>
       body {
@@ -94,7 +97,18 @@
         </div>
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
-         
+          
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12" id="footer">
+          <!-- ฟุตเตอร์ -->
+          <center>
+            <h3>ผลงานนักเรียน</h3>
+            <hr />
+            <p>รายวิชา WebApplication</p>
+            <p>โรงเรียนหล่มสักวิทยาคม</p>
+          </center>
         </div>
       </div>
       </div>  
