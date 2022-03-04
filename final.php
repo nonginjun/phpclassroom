@@ -105,7 +105,7 @@
       display: block;
       padding: 8px 16px;
       text-decoration: none;
-      background-color: #B3DBD8;
+      background-color: #F2F2CE;
     }
     li a:hover {
       background-color: #FDFFE4;
