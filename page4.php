@@ -33,7 +33,7 @@
       }
 
       #sidebar {
-        background-color:#D9C999;
+        background-color: #D9C999;
         padding: 0px;
       }
 
@@ -87,7 +87,15 @@
       <div class="row">
         <div class="col-2" id="sidebar">
           <!-- ไซด์บาร์ -->
-          <head>
+          <ul>
+            <li><a href="index.php">หน้าแรก</a></li>
+            <li><a href="page11.php">แหล่งท่องเที่ยว</a></li>
+            <li><a href="page2.php">ประเพณีและวัฒนธรรม</a></li>
+            <li><a href="page3.php">อาหารประจำท้องถิ่น</a></li>
+            <li><a href="page4.php">ข้อมูลผู้จัดทำ</a></li>
+          </ul>
+        </div>
+         <head>
     <title>Navigation Bar</title>
     <style>
     ul {
@@ -97,7 +105,7 @@
       display: block;
       padding: 8px 16px;
       text-decoration: none;
-      background-color: #B3DBD8;
+      background-color: #F2F2CE;
     }
     li a:hover {
       background-color: #FDFFE4;
@@ -105,19 +113,14 @@
     }
    </style>
   </head>
-  <body>
-          <ul>
-            <li><a href="index.php">หน้าแรก</a></li>
-            <li><a href="page11.php">แหล่งท่องเที่ยว</a></li>
-            <li><a href="page2.php">ประเพณีและวัฒนธรรม</a></li>
-            <li><a href="page3.php">อาหารประจำท้องถิ่น</a></li>
-            <li><a href="page4.php">ข้อมูลผู้จัดทำ</a></li>
-          </ul>
-        </div>
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
+          <center>
+            <h1>จังหวัดน่าน</h1>
+          </center>
+          <center><img src="example_pix.jpg" class="img-fluid rounded"></center>
           <p>
-           เลมึ่นเนด
+           มีประวัติความเป็นมาที่เก่าแก่ยาวนาน มีชื่อเรียกในพงศาวดารว่า นันทบุรี เมืองน่านในอดีตเป็นนครรัฐเล็ก ๆ ก่อตัวขึ้นราวกลางพุทธศตวรรษที่ 18 บริเวณที่ราบลุ่มแม่น้ำน่านและแม่น้ำสาขาในหุบเขาทางตะวันออกของภาคเหนือ
           </p>
         </div>
       </div>
