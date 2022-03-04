@@ -33,7 +33,7 @@
       }
 
       #sidebar {
-        background-color: #EED6D3;
+        background-color: #D9C999;
         padding: 0px;
       }
 
