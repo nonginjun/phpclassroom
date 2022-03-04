@@ -118,7 +118,7 @@
           <center>
             <h1>ข้อมูลผู้จัดทำ</h1>
           </center>
-          <center><img width="50px" src=pm.png class="img-fluid rounded"></center>
+          <center><img width="300px" src=pm.png class="img-fluid rounded"></center>
           <center>
           <p>
          <h1>  1.นางสาวทิพย์วรา เกษามูล  ชื่อเล่น ปริม
