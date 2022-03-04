@@ -121,16 +121,17 @@
           <center><img width="150px" src="pm.jpg" class="img-fluid rounded"></center>
           <center>
           <p>
-        1.นางสาวทิพย์วรา เกษามูล  ชื่อเล่น ปริม
+        นางสาวทิพย์วรา เกษามูล  ชื่อเล่น ปริม
 เลขที่ 20 ชั้น ม.5/13
  </p>
              </center>
           <br>
-          <center><img width="150px" src="pm.jpg" class="img-fluid rounded"></center>
+          <center><img width="150px" src="bs.jpg" class="img-fluid rounded"></center>
           <center>
           <p>
-        1.นางสาวทิพย์วรา เกษามูล  ชื่อเล่น ปริม
-เลขที่ 20 ชั้น ม.5/13
+        นางสาวปัณฑิตา จันทร์อนุรักษ์  ชื่อเล่น เบส
+เลขที่ 22 ชั้น ม.5/13
+
  </p>
              </center>
           <br/>
