@@ -44,7 +44,7 @@
 
       #footer {
         padding: 50px;
-        background-color: #A8D1E7;
+        background-color: #e99176;
         border-radius: 0 0 15px 15px;
       }
 
