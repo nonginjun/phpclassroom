@@ -167,7 +167,7 @@
              </center>
           <br/>
           <br>
-          <center><img width="150px" src="em.jpg" class="img-fluid rounded"></center>
+          <center><img width="200px" src="em.jpg" class="img-fluid rounded"></center>
           <center>
           <p>
         นางสาวอารีรัตน์ คำโฉม  ชื่อเล่น อิ๋ม
