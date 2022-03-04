@@ -116,7 +116,9 @@
         </div>
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
-          
+          <p>
+           โพโอโอราลอยเลิฟ
+          </p>
         </div>
       </div>
       <div class="row">
