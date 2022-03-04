@@ -119,7 +119,7 @@
             <h1>ข้อมูลผู้จัดทำ</h1>
             <br>
           </center>
-          <center><img width="500px" src="pm.jpg" class="img-fluid rounded"></center>
+          <center><img width="200px" src="pm.jpg" class="img-fluid rounded"></center>
           <center>
           <p>
         นางสาวทิพย์วรา เกษามูล  ชื่อเล่น ปริม
