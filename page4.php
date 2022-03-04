@@ -116,7 +116,7 @@
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
           <center>
-            <h1>ข้อมูลผู้จัดทำ</h1>
+            <h3>ข้อมูลผู้จัดทำ</h3>
             <br>
           </center>
           <center><img width="200px" src="pm.jpg" class="img-fluid rounded"></center>
