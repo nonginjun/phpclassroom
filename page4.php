@@ -119,7 +119,7 @@
             <h1>ข้อมูลผู้จัดทำ</h1>
             <br>
           </center>
-          <center><img width="150px" src="pm.jpg" class="img-fluid rounded"></center>
+          <center><img width="500px" src="pm.jpg" class="img-fluid rounded"></center>
           <center>
           <p>
         นางสาวทิพย์วรา เกษามูล  ชื่อเล่น ปริม
@@ -128,7 +128,7 @@
              </center>
           <br/>
           <br>
-          <center><img width="150px" src="bs.jpg" class="img-fluid rounded"></center>
+          <center><img width="200px" src="bs.jpg" class="img-fluid rounded"></center>
           <center>
           <p>
         นางสาวปัณฑิตา จันทร์อนุรักษ์  ชื่อเล่น เบส
@@ -138,7 +138,7 @@
              </center>
           <br/>
            <br>
-          <center><img width="150px" src="pw.jpg" class="img-fluid rounded"></center>
+          <center><img width="200px" src="pw.jpg" class="img-fluid rounded"></center>
           <center>
           <p>
         นางสาวภัทรธิดา ศรีทับทิม  ชื่อเล่น เเพรวา
@@ -148,7 +148,7 @@
              </center>
           <br/>
           <br>
-          <center><img width="150px" src="tk.jpg" class="img-fluid rounded"></center>
+          <center><img width="200px" src="tk.jpg" class="img-fluid rounded"></center>
           <center>
           <p>
         นางสาวภัทรวดี ดาบัว  ชื่อเล่น ต้นข้าว
@@ -157,7 +157,7 @@
              </center>
           <br/>
           <br>
-          <center><img width="150px" src="wn.jpg" class="img-fluid rounded"></center>
+          <center><img width="200px" src="wn.jpg" class="img-fluid rounded"></center>
           <center>
           <p>
        นางสาวศิรดา พิลากุล  ชื่อเล่น ว่าน
