@@ -147,6 +147,36 @@
  </p>
              </center>
           <br/>
+          <br>
+          <center><img width="150px" src="tk.jpg" class="img-fluid rounded"></center>
+          <center>
+          <p>
+        นางสาวภัทรวดี ดาบัว  ชื่อเล่น ต้นข้าว
+เลขที่ 25 ชั้น ม.5/13
+            </p>
+             </center>
+          <br/>
+          <br>
+          <center><img width="150px" src="wn.jpg" class="img-fluid rounded"></center>
+          <center>
+          <p>
+       นางสาวศิรดา พิลากุล  ชื่อเล่น ว่าน
+เลขที่ 26 ชั้น ม.5/13
+
+            </p>
+             </center>
+          <br/>
+          <br>
+          <center><img width="150px" src="em.jpg" class="img-fluid rounded"></center>
+          <center>
+          <p>
+        นางสาวอารีรัตน์ คำโฉม  ชื่อเล่น อิ๋ม
+เลขที่ 27 ชั้น ม.5/13
+
+            </p>
+             </center>
+          <br/>
+          
         </div>
       </div>
       <div class="row">
