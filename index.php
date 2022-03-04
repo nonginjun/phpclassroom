@@ -28,7 +28,7 @@
 
       #header {
         height: 160px;
-        background-image: url("header.jpg");
+        background-image: url("kuy.jpg");
         background-size:100%;
       }
 
