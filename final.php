@@ -28,7 +28,7 @@
 
       #header {
         height: 160px;
-        background-image: url("lu.png");
+        background-image: url("lu.jpg");
         background-size:100%;
       }
 
