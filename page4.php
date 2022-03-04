@@ -116,7 +116,9 @@
         </div>
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
-          
+          <p>
+           เลมึ่นเนด
+          </p>
         </div>
       </div>
       <div class="row">
