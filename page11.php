@@ -109,7 +109,7 @@
     }
     li a:hover {
       background-color: #EB8C55;
-      color: pink;
+      color: white;
     }
    </style>
   </head>
