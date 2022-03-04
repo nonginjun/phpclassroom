@@ -95,6 +95,24 @@
             <li><a href="page4.php">ข้อมูลผู้จัดทำ</a></li>
           </ul>
         </div>
+         <head>
+    <title>Navigation Bar</title>
+    <style>
+    ul {
+      list-style-type: none;
+    }
+    li a {
+      display: block;
+      padding: 8px 16px;
+      text-decoration: none;
+      background-color: #B3DBD8;
+    }
+    li a:hover {
+      background-color: #FDFFE4;
+      color: pink;
+    }
+   </style>
+  </head>
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
           <center>
