@@ -117,6 +117,7 @@
           <!-- คอนเท้นต์ -->
           <center>
             <h1>ข้อมูลผู้จัดทำ</h1>
+            <br>
           </center>
           <center><img width="150px" src="pm.jpg" class="img-fluid rounded"></center>
           <center>
@@ -125,12 +126,23 @@
 เลขที่ 20 ชั้น ม.5/13
  </p>
              </center>
+          <br/>
           <br>
           <center><img width="150px" src="bs.jpg" class="img-fluid rounded"></center>
           <center>
           <p>
         นางสาวปัณฑิตา จันทร์อนุรักษ์  ชื่อเล่น เบส
 เลขที่ 22 ชั้น ม.5/13
+
+ </p>
+             </center>
+          <br/>
+           <br>
+          <center><img width="150px" src="pw.jpg" class="img-fluid rounded"></center>
+          <center>
+          <p>
+        นางสาวภัทรธิดา ศรีทับทิม  ชื่อเล่น เเพรวา
+เลขที่ 23 ชั้น ม.5/13
 
  </p>
              </center>
