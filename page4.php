@@ -19,7 +19,7 @@
     <style>
       body {
         font-family: "Sarabun";
-        background-color: pink;
+        background-color: #fdf2e7;
       }
 
       #container {
