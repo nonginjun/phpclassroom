@@ -116,7 +116,7 @@
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
           <center>
-            <h1>จังหวัดน่าน</h1>
+            <h3>จังหวัดน่าน</h3>
           </center>
           <center><img src="kon.png" class="img-fluid rounded"></center>
           <p>
