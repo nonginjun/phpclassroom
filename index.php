@@ -118,7 +118,7 @@
           <center>
             <h3>จังหวัดน่าน</h3>
           </center>
-         <center><img width="500px" src="kon.png" class="img-fluid rounded"></center>
+         <center><img width="300px" src="kon.png" class="img-fluid rounded"></center>
           
             <br>
           <p>
