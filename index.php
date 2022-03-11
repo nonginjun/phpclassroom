@@ -167,7 +167,7 @@
           </p>
         
          ตราประจำจังหวัด
-           <center><img src="nan.png" class="img-fluid rounded"></center>
+           <center><img src="nan.jpg" class="img-fluid rounded"></center>
 <br/>
           </p>
         </div>
