@@ -167,14 +167,17 @@
           </p>
   
         <center><img width="400px" src="ด่อง.png" class="img-fluid rounded"></center>
+  </br>
         <center>  ตราประจำจังหวัด: รูปพระธาตุแช่แห้งประดิษฐานบนหลังโคอุศุภราช</center>
            
   <br>
              <center><img width="400px" src="ขาวสส.png" class="img-fluid rounded"></center>
+</br>
    <center>ดอกไม้ประจำจังหวัด: ดอกเสี้ยวดอกขาว</center>
 
   <br>
   <center><img width="400px" src="เสือสส.png" class="img-fluid rounded"></center>
+</br>
    <center>ต้นไม้ประจำจังหวัด: กำลังเสือโคร่ง</center>
            
 <br/>
