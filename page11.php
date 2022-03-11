@@ -39,7 +39,7 @@
 
       #content {
         padding: 10px;
-        background-color: white;
+        background-color:#FEE5E0;
       }
 
       #footer {
