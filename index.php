@@ -169,9 +169,9 @@
          ตราประจำจังหวัด: รูปพระธาตุแช่แห้งประดิษฐานบนหลังโคอุศุภราช
            <center><img width="500px" src="nan.jpg" class="img-fluid rounded"></center>
    ดอกไม้ประจำจังหวัด: ดอกเสี้ยวดอกขาว
-           <center><img width="500px" src="ขาวสส.jpg" class="img-fluid rounded"></center>
+           <center><img width="500px" src="ขาวสส.png" class="img-fluid rounded"></center>
    ต้นไม้ประจำจังหวัด: กำลังเสือโคร่ง
-           <center><img width="500px" src="เสือสส.jpg" class="img-fluid rounded"></center>
+           <center><img width="500px" src="เสือสส.png" class="img-fluid rounded"></center>
 <br/>
           </p>
         </div>
